@@ -20,7 +20,7 @@ const HelloWord: React.FC = () => {
       >
         Hello world!
       </Button>
-      <h2 className='text-3xl font-bold text-foreground'>I'm Barthez Kenwou</h2>
+      <h2 className='text-3xl font-bold text-foreground'>I'm Barthez Kenwou, Welcome to my Dashboard project !</h2>
     </div>
   );
 }

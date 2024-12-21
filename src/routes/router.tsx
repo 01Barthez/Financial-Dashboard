@@ -16,10 +16,10 @@ const Router = createBrowserRouter([
 		path: '/',
 		element: (
 			<>
-				<Outlet />
-
 				{/* To scroll to top each time that we change routes */}
 				<ScrollToTop />
+
+				<Outlet />
 			</>
 		),
 

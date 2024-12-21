@@ -1,16 +1,16 @@
 {
-  "name": "react-project-started",
-  "private": "true",
-  "version": "1.0.1",
-  "description": "Ce dépôt est un template moderne et flexible pour démarrer rapidement vos projets React. Il intègre ShadCN, Aeternity, et FarmUI, trois outils puissants pour créer des interfaces utilisateur élégantes et dynamiques. Ce template est optimisé pour les performances, la modularité et une configuration rapide",
+  "name": "financial-dashboard",
+  "private": "false",
+  "version": "0.0.0",
+  "description": "A Modern Financial Analysis Dashboard build with React, Shadcn, Typescript and tailwindCSS, Track Analyze and optimize finances with interactives visuals and advanced features. A showcase of impactful, innovative solution. Explore fork or contribute ! ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/01Barthez/React-started"
+    "url": "https://github.com/01Barthez/Financial-Dashboard"
   },
-  "homepage": "https://github.com/01Barthez/React-started#readme",
-  "readme": "https://github.com/01Barthez/React-started#readme",
+  "homepage": "https://github.com/01Barthez/Financial-Dashboard#readme",
+  "readme": "https://github.com/01Barthez/Financial-Dashboard#readme",
   "bugs": {
-    "url": "https://github.com/01Barthez/React-started/issues"
+    "url": "https://github.com/01Barthez/Financial-Dashboard/issues"
   },
   "author": {
     "name": "Barthez Kenwou",
@@ -21,14 +21,27 @@
   "main": "index.html",
   "keywords": [
     "Barthez Kenwou",
-    "React",
-    "Shadcn",
-    "Aceternity",
-    "Typescript",
-    "Web Developer",
-    "Frontend Developer",
-    "Fullstack Developer",
-    "TailwindCSS"
+    "Projet-1",
+    "Financial Dashboard",
+    "React Financial Analysis",
+    "Financial Data Visualization",
+    "Recharts Integration",
+    "Chart.js Graphs",
+    "Tailwind CSS Dashboard",
+    "Shadcn Components",
+    "Budget Management",
+    "Expense Tracker",
+    "Revenue Analytics",
+    "Profit and Loss Analysis",
+    "Financial KPIs",
+    "Real-Time Data",
+    "Interactive Charts",
+    "Financial Reports",
+    "Income and Expense Graphs",
+    "Modern UI Dashboard",
+    "React Tailwind Dashboard",
+    "Data-Driven Decisions",
+    "Financial Insights"
   ],
   "type": "module",
   "engines": {

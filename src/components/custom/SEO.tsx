@@ -6,19 +6,31 @@ const SEO: React.FC<ISEOProps> = ({
 	title,
 	description,
 	keywords = [
-		'Barthez Kenwou',
-		'React',
-		'Shadcn',
-		'Aceternity',
-		'Typescript',
-		'Web Developer',
-		'Frontend Developer',
-		'Fullstack Developer',
-		'TailwindCSS',
+		"Barthez Kenwou",
+		"Projet-1",
+		"Financial Dashboard",
+		"React Financial Analysis",
+		"Financial Data Visualization",
+		"Recharts Integration",
+		"Chart.js Graphs",
+		"Tailwind CSS Dashboard",
+		"Shadcn Components",
+		"Budget Management",
+		"Expense Tracker",
+		"Revenue Analytics",
+		"Profit and Loss Analysis",
+		"Financial KPIs",
+		"Real-Time Data",
+		"Interactive Charts",
+		"Financial Reports",
+		"Income and Expense Graphs",
+		"Modern UI Dashboard",
+		"React Tailwind Dashboard",
+		"Data-Driven Decisions",
+		"Financial Insights"
 	],
 	image = '',
 	url = window.location.href,
-	author = 'React-Projet-Starter',
 	type = 'website',
 }) => {
 	return (
@@ -27,7 +39,6 @@ const SEO: React.FC<ISEOProps> = ({
 
 			<meta name='description' content={description} />
 			<meta name='keywords' content={keywords.join(', ')} />
-			<meta name='author' content={author} />
 
 			<meta property='og:site_name' content='React-Projet-Starter' />
 
